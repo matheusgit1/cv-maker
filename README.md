@@ -1,46 +1,51 @@
-# Getting Started with Create React App
+# CV-MAKER
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um desafio pessoal. O quão longe eu conseguiria chegar usando tecnologias que não sou muito familiarizado?.
+O Resultado final ficou bem interessante e acho que você, desenvolvedor, vai gosta.
 
-## Available Scripts
+ese software é de licença livre. Baixe, clone, modifique e melhore como quiser.
 
-In the project directory, you can run:
+feito com carinho por um dev para outros devs.
 
-### `npm start`
+# COMO EXECUTAR O PROJETO
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+`yarn install`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+`yarn start`
 
-### `npm test`
+# VIDEO PREVIEW
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![vid 1](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/front-end-demostration_X.mp4)
 
-### `npm run build`
+# IMAGENS DE EXEMPLO
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![img 1](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/models.PNG)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+um dos pontos que pode ser melhorado no projeto, a capacidade de dar uma opção de modelo para o usuario escolher e gerar seu curriculo com base nesse modelo.
+crie um template html e css para cada modelo que você pretende dar em seu projeto.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![img 2](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/personal%20informations.PNG)
 
-### `npm run eject`
+informações pessoais
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![img 3](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/jobs%20experiences.PNG)
+![img 4](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/qualifications%20and%20informations.PNG)
+![img 5](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/skilss.PNG)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+crie quantos formularios de experiencias, qualificaçoes, habilidades e informações adicionais você desejar
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![img 6](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/modelFinal.PNG)
 
-## Learn More
+exiba o modelo final para o usuario com base no modelo craido ;)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# CONSIDERAÇÕES
+esse software é de licença livre, baixe, melhore, façã upload em seu git, como desejar!
+
+
+
+
+
+
+
