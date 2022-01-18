@@ -15,7 +15,7 @@ feito com carinho por um dev para outros devs.
 
 # VIDEO PREVIEW
 
-![vid 1](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/front-end-demostration_X.mp4)
+![vid 1](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/front-end-demostration%20(1).mp4)
 
 # IMAGENS DE EXEMPLO
 
