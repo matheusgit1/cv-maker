@@ -1,0 +1,23 @@
+#main{
+  width: 595px;
+  padding: 15px 15px;
+  background-color: #fff;
+}
+.title{
+  justify-content: center;
+  text-align: center;
+  font-size: 15px;
+}
+ul.head-list li {
+  display:inline;
+  font-size: 9px;
+  gap: 5px;
+}
+.introduction{
+  text-align: justify;
+  margin-top: 15px;
+  font-size: 11px;
+}
+#jobs{
+  margin: 0px 0px;
+}

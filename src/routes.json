@@ -1,0 +1,9 @@
+{
+  "models":{"path":"/"},
+  "personalData":{"path":"/informacoes-pessoais"},
+  "workExperiences":{"path":"/experiencias-de-trabalho"},
+  "TrainingAndQualification":{"path":"/qualificacoes-e-formacoes"},
+  "Skills":{"path":"/habilidades"},
+  "AdditionalInformation":{"path":"/informacoes-adicionais"},
+  "ViewModel":{"path":"/modelo-final"}
+}
