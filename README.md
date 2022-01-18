@@ -15,7 +15,7 @@ feito com carinho por um dev para outros devs.
 
 # VIDEO PREVIEW
 
-![vid 1](https://youtu.be/2YwlcLFJEvw)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 # IMAGENS DE EXEMPLO
 
