@@ -7,6 +7,12 @@ ese software é de licença livre. Baixe, clone, modifique e melhore como quiser
 
 feito com carinho por um dev para outros devs.
 
+# OBJETIVO
+
+O objetivo central do projeto foi focado em criar uma engine que permitesse
+criar e imprimir currículos de forma rápida, prática e fácil.
+
+
 # COMO EXECUTAR O PROJETO
 
 `yarn install`
