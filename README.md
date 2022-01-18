@@ -15,7 +15,7 @@ feito com carinho por um dev para outros devs.
 
 # VIDEO PREVIEW
 
-![vid 1](https://github.com/matheusgit1/cv-maker/blob/main/demonstation/bloggif_61e6305a7cbba.gif)
+![vid 1](https://youtu.be/2YwlcLFJEvw)
 
 # IMAGENS DE EXEMPLO
 
